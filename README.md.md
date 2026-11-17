@@ -11,11 +11,11 @@
 
   <p>
     <strong>Building the foundation for modern, scalable software.</strong><br />
-    <sub>A structured overview of programming, frontend, backend, data, cloud, and software architecture skills.</sub>
+    <sub>A structured overview of full-stack development, AI engineering, LLM applications, cloud, and software architecture skills.</sub>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563EB?style=for-the-badge" alt="Focus: Full Stack Development" />
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI%20Engineering-2563EB?style=for-the-badge" alt="Focus: Full Stack and AI Engineering" />
     <img src="https://img.shields.io/badge/Architecture-Scalable%20Systems-0891B2?style=for-the-badge" alt="Architecture: Scalable Systems" />
     <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Maintainable%20Code-16A34A?style=for-the-badge" alt="Approach: Clean and Maintainable Code" />
   </p>
@@ -34,6 +34,7 @@ This README brings together the core technologies and engineering concepts acros
 | 💻 Programming Languages | Languages and web foundations |
 | 🎨 Frontend Development | Modern, responsive user interfaces |
 | ⚙️ Backend Development | APIs, services, and application security |
+| 🤖 AI Engineering & LLM Applications | LLM frameworks, RAG, context protocols, and evaluation |
 | 🗄️ Database & Data Engineering | Data modeling, storage, and optimization |
 | ☁️ DevOps, Cloud & Deployment | Infrastructure, automation, and cloud platforms |
 | 🏛️ Software Engineering & Architecture | Maintainable code and scalable system design |
@@ -78,7 +79,25 @@ This README brings together the core technologies and engineering concepts acros
   <img src="https://img.shields.io/badge/API%20Integration-7C3AED?style=flat-square" alt="API Integration" />
 </p>
 
-## 🗄️ 04 — Database & Data Engineering
+## 🤖 04 — AI Engineering & LLM Applications
+
+<p>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C47FF?style=flat-square" alt="MCP — Model Context Protocol" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0B6E69?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-2563EB?style=flat-square" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-9333EA?style=flat-square" alt="LLM Evaluation" />
+</p>
+
+| Skill | Focus |
+|---|---|
+| **MCP (Model Context Protocol)** | Connecting AI applications with external tools and context |
+| **LangChain** | Building applications powered by large language models |
+| **LangGraph** | Orchestrating stateful, multi-step AI workflows and agents |
+| **RAG** | Grounding LLM responses with retrieved external knowledge |
+| **LLM Evaluation** | Evaluating the quality, relevance, and reliability of LLM outputs |
+
+## 🗄️ 05 — Database & Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -91,7 +110,7 @@ This README brings together the core technologies and engineering concepts acros
   <img src="https://img.shields.io/badge/Database%20Optimization-15803D?style=flat-square" alt="Database Optimization" />
 </p>
 
-## ☁️ 05 — DevOps, Cloud & Deployment
+## ☁️ 06 — DevOps, Cloud & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -109,7 +128,7 @@ This README brings together the core technologies and engineering concepts acros
   <img src="https://img.shields.io/badge/Serverless%20Architecture-7C3AED?style=flat-square" alt="Serverless Architecture" />
 </p>
 
-## 🏛️ 06 — Software Engineering & Architecture
+## 🏛️ 07 — Software Engineering & Architecture
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1D4ED8?style=flat-square" alt="Data Structures and Algorithms" />
@@ -129,6 +148,8 @@ This README brings together the core technologies and engineering concepts acros
 - **End-to-end development:** Work across frontend interfaces, backend services, APIs, and databases.
 - **Secure applications:** Apply authentication and authorization concepts when building application services.
 - **Reliable data layers:** Design and optimize databases for application needs.
+- **AI-powered applications:** Build LLM-based workflows with LangChain, LangGraph, MCP, and RAG.
+- **LLM quality:** Evaluate LLM outputs for quality, relevance, and reliability.
 - **Cloud-native delivery:** Use containers, CI/CD practices, and cloud platforms to deploy software.
 - **Maintainable architecture:** Apply clean code, SOLID principles, design patterns, and system design fundamentals.
 
@@ -136,7 +157,7 @@ This README brings together the core technologies and engineering concepts acros
 
 ## 📌 Note
 
-This README reflects the skills listed in the supplied `SKILLS.docx`. The source document does not specify dedicated AI/ML or LLM technologies, so no additional AI tools or frameworks have been added here.
+This README combines the skills from the supplied `SKILLS.docx` with the additional AI technologies and concepts requested: MCP, LangGraph, LangChain, LLM Evaluation, and RAG.
 
 <div align="center">
   <sub>Designed for a clean, readable GitHub presentation.</sub>
